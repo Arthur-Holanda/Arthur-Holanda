@@ -9,3 +9,9 @@
 | :-: | :-: |
 
 #
+
+##
+  
+  ![Snake animation](https://github.com/Arthur-Holanda/Arthur-Holanda/blob/output/github-contribution-grid-snake.svg)
+  
+##
